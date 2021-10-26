@@ -1,0 +1,7 @@
+<button bindtap="fun1">点击按钮</button>
+<button bindtap="fun2">点击按钮</button>
+<button bindtap="fun3">点击按钮</button>
+<button bindtap="fun4">点击按钮</button>
+<button bindtap="fun5">点击按钮</button>
+<button bindtap="fun6">点击按钮</button>
+<button bindtap="fun7">点击按钮</button>

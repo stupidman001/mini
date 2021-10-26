@@ -1,0 +1,3 @@
+<view class="footer">
+    卡片的底部 || {{msg}}
+</view>

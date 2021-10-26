@@ -1,0 +1,4 @@
+/* Components/body/body.wxss */
+.body{
+    background-color: grey;
+}

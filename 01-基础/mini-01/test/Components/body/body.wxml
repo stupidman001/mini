@@ -1,0 +1,6 @@
+<view class="body">
+    卡片中的内容
+   <view wx:for="{{array}}" wx:key="id">
+        <text>{{item.content}}</text>
+   </view> 
+</view>

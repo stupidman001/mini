@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/test/test"
+    ],
+    "window": {
+        "navigationBarTitleText": "test",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#bfc",
+        "backgroundTextStyle": "dark"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}

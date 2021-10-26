@@ -1,0 +1,5 @@
+<view>卡片</view>
+<Head iconType="success" />
+<Body array="{{arr}}" />
+<Foot />
+

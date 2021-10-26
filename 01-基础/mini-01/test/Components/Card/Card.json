@@ -1,0 +1,8 @@
+{
+    "component": true,
+    "usingComponents": {
+        "Head":"/Components/header/header",
+        "Body":"/Components/body/body",
+        "Foot":"/Components/foot/foot"
+    }
+}
